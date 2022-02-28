@@ -18,6 +18,3 @@ Please keep the [main.py](https://github.com/saornek/Kimberlina/blob/main/main.p
 
 ### Connections
 ![alt text](https://github.com/saornek/Kimberlina/blob/main/KimberlinaCircuit.jpg)
-
-## Software
-Please keep the [main.py](https://github.com/saornek/Kimberlina/blob/main/main.py) with the main.py name for it to be able to start on boot. 
