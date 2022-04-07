@@ -1,7 +1,7 @@
 # Kimberlina
 ![Kimberlina](http://www.selinoid.com/wp-content/uploads/2021/09/Kimberlina_No_Background-300x300.png)
 
-Kimberlina is a tournament battle bot inspired by Star Wars IG- 227 Hailfire – Class Droid. You can read more information on Kimberlina [Mag Pi 116 Issue](https://magpi.raspberrypi.com/issues/116)
+Kimberlina is a tournament battle bot inspired by Star Wars IG- 227 Hailfire – Class Droid. You can read more information on Kimberlina at the [Mag Pi 116 Issue](https://magpi.raspberrypi.com/issues/116)
 
 ## Software
 Please keep the [main.py](https://github.com/saornek/Kimberlina/blob/main/main.py) with the main.py name for it to be able to start on boot. 
